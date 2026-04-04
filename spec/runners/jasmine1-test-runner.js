@@ -1,2 +1,1 @@
-const createRunner = require("pulsar-jasmine1-test-runner");
-module.exports = createRunner;
+module.exports = require("pulsar-jasmine1-test-runner");
