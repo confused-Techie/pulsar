@@ -38,7 +38,7 @@
     "@pulsar-edit/scandal": "^4.0.0",
     "@pulsar-edit/superstring": "^3.0.5",
     "@pulsar-edit/text-buffer": "^14.0.3",
-    "pulsar-jasmine1-test-runner": "https://github.com/confused-Techie/pulsar-jasmine1-test-runner",
+    "pulsar-jasmine1-test-runner": "confused-Techie/pulsar-jasmine1-test-runner",
     "about": "file:packages/about",
     "archive-view": "file:packages/archive-view",
     "async": "3.2.6",
