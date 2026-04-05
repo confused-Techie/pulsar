@@ -37,6 +37,9 @@ jobs:
     - name: Install Dependencies
       run: yarn install --ignore-engines || yarn install --ignore-engines
 
+    - name: Pull latest jasmine runner changes
+      run: yarn add confused-Techie/pulsar-jasmine1-test-runner
+
     - name: Build Dependencies
       run: yarn build
 
